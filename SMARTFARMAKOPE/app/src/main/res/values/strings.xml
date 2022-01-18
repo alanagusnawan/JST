@@ -1,0 +1,12 @@
+<resources>
+<string name="app_name">SMART FARMAKOPE</string>
+
+<string name="welcome">Welcome</string>
+<string name="obat">Identifikasi Obat</string>
+<string name="kemasan">Identifikasi Kemasan</string>
+<string name="judul">Smart Farmakope</string>
+
+<string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.</string>
+<!-- TODO: Remove or change this placeholder text -->
+<string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
